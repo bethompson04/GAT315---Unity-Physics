@@ -3,17 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cannon
+  - Target
+  - World
+  - KillTarget
+  - Ragdoll
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - World
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Car
+  - Driver
+  - Cloth
   - 
   - 
   - 
